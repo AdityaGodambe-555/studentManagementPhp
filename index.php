@@ -19,7 +19,9 @@
 
 <div class="container mx-auto p-6 bg-gray-100">
     <h3 class="text-2xl font-semibold text-center mb-6">
-        <a href="addstudent.php" class="text-blue-600 hover:text-blue-800">Add Student Data</a>
+        <a href="addstudent.php" class="inline-block px-4 py-2 bg-blue-600 text-white rounded hover:bg-blue-700 transition">
+            Add Student Data
+        </a>
     </h3>
     <table class="min-w-full bg-white border border-gray-300 rounded-lg shadow-md">
         <thead>

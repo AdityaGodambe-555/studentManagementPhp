@@ -37,7 +37,7 @@
             }
         }
         else{
-            echo"Password Donot Match";
+            echo"<script>alert('Password Donot Match')</script>";
         }
     }
 ?>

@@ -5,6 +5,11 @@
     include('config.php');
     include("header.php");
 ?>
+<div class="absolute top-[65px] left-0 m-4 bg-white p-4 rounded shadow-md">
+    <h4 class="font-semibold">Test Users:</h4>
+    <p>Uname: Test One, Password: test123</p>
+    <p>Uname: Test Two, Password: test123</p>
+</div>
 <div class="flex items-center justify-center h-screen bg-gray-100">
     <form action="<?php $_SERVER["PHP_SELF"] ?>" method="post" class="max-w-md mx-auto bg-white p-8 rounded-lg shadow-md">
         <h3 class="text-xl font-semibold text-center mb-6">Login Page</h3>
@@ -21,7 +26,6 @@
         </div>
     </form>
 </div>
-
 <?php 
     include("footer.php")
 ?>
