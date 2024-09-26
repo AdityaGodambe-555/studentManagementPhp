@@ -2,6 +2,13 @@
 
 A simple Student Management System built with PHP and MySQL. This application allows users to manage student records, including adding, editing, and deleting student information.
 
+## Technologies Used
+
+- PHP
+- MySQL
+- HTML
+- CSS (with Tailwind CSS for styling)
+
 ## Features
 
 - Add new student records
@@ -33,13 +40,6 @@ This table stores information about users of the system, typically for authentic
 - `id` (int, PRIMARY KEY): Unique identifier for each user (auto-increment).
 - `uname` (varchar): Username of the user.
 - `upass` (varchar): Password of the user.
-
-## Technologies Used
-
-- PHP
-- MySQL
-- HTML
-- CSS (with Tailwind CSS for styling)
 
 ## Usage
 
