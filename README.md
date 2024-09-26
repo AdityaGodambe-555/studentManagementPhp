@@ -53,3 +53,9 @@ This table stores information about users of the system, typically for authentic
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/yourusername/student-management-system.git
+
+
+
+https://github.com/user-attachments/assets/79a5d747-27fb-46ac-9a03-51dd8fd47c0f
+
+
