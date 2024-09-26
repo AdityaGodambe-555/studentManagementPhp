@@ -2,7 +2,8 @@
 
 A simple Student Management System built with PHP and MySQL. This application allows users to manage student records, including adding, editing, and deleting student information.
 
-##Live Link
+## Live Link
+
 http://adityastudentmanagement.wuaze.com/login.php
 
 ## Technologies Used
