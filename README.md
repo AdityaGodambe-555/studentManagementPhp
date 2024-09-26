@@ -19,6 +19,7 @@ http://adityastudentmanagement.wuaze.com/login.php
 - Edit existing student details
 - Delete student records
 - View all student data in a table format
+- implementation Login and Registration
 
 ## Database Structure
 
